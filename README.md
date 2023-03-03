@@ -30,6 +30,8 @@ When asked to enter a license for the application, the user can navigate the lis
 
 After a few more questions, the user will recieve confirmation in the console that the README.md file has been successfully created, and the user will find the resulting file in the application's root folder.
 
+An example video of this process can be viewed [here](https://drive.google.com/file/d/14pj-42fv_oO2TAHqh_Hv5_BRE1Kar_wz/view?usp=share_link)
+
 
 ## License
 
