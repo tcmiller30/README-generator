@@ -6,8 +6,6 @@
 
 This application can be used by developers to quickly generate a properly layed out README file for their application. Using their terminal, the user will be asked a series of questions pertaining to the application that requires the README to be generated. When all the questions have been answered, the application will generate a README file populated with the info provided by the user. The generated README will have the provided info separated into different section and include working links to GitHub and the user's contact email. The application will also implement a table of contents into the README for better navigation.
 
-
-
 ## Table of Contents
 
 If your README is long, add a table of contents to make it easy for users to find what they need.
